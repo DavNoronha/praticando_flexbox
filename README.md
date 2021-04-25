@@ -1,4 +1,4 @@
-##Objetivo do projeto:
+# Objetivo do projeto:
 
 Colocar em pratica meus conhecimentos sobre HTML5 e CSS3 usando Flexbox.
 
